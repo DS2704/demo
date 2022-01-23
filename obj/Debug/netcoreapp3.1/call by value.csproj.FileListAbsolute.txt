@@ -1,0 +1,4 @@
+C:\Users\admin\source\repos\call by value\obj\Debug\netcoreapp3.1\call by value.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\call by value\obj\Debug\netcoreapp3.1\call by value.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\call by value\obj\Debug\netcoreapp3.1\call by value.AssemblyInfo.cs
+C:\Users\admin\source\repos\call by value\obj\Debug\netcoreapp3.1\call by value.csproj.CoreCompileInputs.cache
